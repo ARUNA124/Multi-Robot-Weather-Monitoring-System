@@ -1,0 +1,1 @@
+The final output of thus project is making the communication between the two robots and the robots are controlled by the mobile applications sepately. We finally dispaly trhe outputs in the mobile app as well as Robot's display screen..
